@@ -4,7 +4,7 @@ Class Project (57000)
 This Repo contains Jupyter Notebook (python) on the implementation of Romingo, a Visual Language model for few-shot learning and a video demonstration of the key features and evaluation results. This is a reimplementation of DeepMind’s Flamingo model (https://arxiv.org/pdf/2204.14198)
 
 ## Video Demo
-To watch the video demonstration, download the “demo” file.
+To watch the video demonstration, download the “demo” video file.
 
 ## Datasets and Pre-trained Weights
 With the exception of the COCO dataset train and val images (which are downloaded in the code from Kaggle), access to all other datasets and model pre-trained weights have been provided to the Professors via email. Access is a link to my google drive space to obtain the needed files. Professors will distribute access as needed. 
